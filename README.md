@@ -4,7 +4,7 @@
 
 # Cryptaur
 
-<img src="https://cryptaur.com/wp-content/uploads/2017/07/cropped-CRYPTAUR_LOGO_CENTER.png" alt="Cryptaur logo" width="150">
+<img src="https://cryptaur.github.io/images/Cryptaur-logo.png" alt="Cryptaur logo" width="150">
 
 [cryptaur.com](https://cryptaur.com/)
 
@@ -12,11 +12,7 @@ __Bye-Bye, Mr. Middleman__
 
 ---
 
-## Repositories (parts of crowdsale platform)
-
-* [Smart contract](https://github.com/Cryptaur/cryptaur-contract)
-* [Payment server](https://github.com/Cryptaur/cryptaur-payment-server)
-* [Web server](https://github.com/Cryptaur/cryptaur-web-server)
+* [Crowdsale platform](https://github.com/Cryptaur/cryptaur-crowdsale-platform)
 
 ## ABOUT
 
@@ -35,7 +31,7 @@ The Cryptaur vision is to make decentralized technologies available to consumers
 
 # Ambisafe
 
-[![Ambisafe logo](https://www.ambisafe.co/static/img/logo.7808a35696cd.png "Ambisafe logo")](https://www.ambisafe.co/)
+[![Ambisafe logo](https://cryptaur.github.io/images/Ambisafe-logo.png "Ambisafe logo")](https://www.ambisafe.co/)
 
 [www.ambisafe.co](https://www.ambisafe.co/)
 
