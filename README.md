@@ -1,5 +1,7 @@
 [Cryptaur GitHub organization page](https://github.com/Cryptaur)
 
+---
+
 # Cryptaur
 
 <img src="https://cryptaur.com/wp-content/uploads/2017/07/cropped-CRYPTAUR_LOGO_CENTER.png" alt="Cryptaur logo" width="150">
