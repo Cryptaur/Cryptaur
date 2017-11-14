@@ -1,8 +1,10 @@
+[Cryptaur GitHub organization page](https://github.com/Cryptaur)
+
 # Cryptaur
 
 <img src="https://cryptaur.com/wp-content/uploads/2017/07/cropped-CRYPTAUR_LOGO_CENTER.png" alt="Cryptaur logo" width="150">
 
-https://cryptaur.com/
+[cryptaur.com](https://cryptaur.com/)
 
 __Bye-Bye, Mr. Middleman__
 
@@ -33,7 +35,7 @@ The Cryptaur vision is to make decentralized technologies available to consumers
 
 [![Ambisafe logo](https://www.ambisafe.co/static/img/logo.7808a35696cd.png "Ambisafe logo")](https://www.ambisafe.co/)
 
-https://www.ambisafe.co/
+[www.ambisafe.co](https://www.ambisafe.co/)
 
 __Ethereum Asset Platform__
 
